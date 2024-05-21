@@ -724,7 +724,7 @@ namespace MOTORIDER
      - Utilização de um sistema de geração pseudoaleatória para os carros inimigos, assegurando uma dificuldade crescente e balanceada.
 
 5. __Sistema de Colisão Preciso:__
-     - Implementação de bounding boxes para detecção de colisões, garantindo precisão e eficiência.
+     - Implementação de bounding boxes para detecção de colisões, para garantir precisão e eficiência.
 
 <a name="aspetos"></a>
 # __Aspectos Técnicos__
@@ -752,7 +752,7 @@ A detecção de colisões foi implementada utilizando bounding boxes. Esta técn
   <p align="center">
   <img src="https://i.imgur.com/jfN51Is.png"  alt="MotoRider" width=600>
   </p>
-* __Imagem da Tela de Game Over__
+* __Imagem do Ecrã de Game Over__
   <p align="center">
   <img src="https://i.imgur.com/hO977mK.png"  alt="MotoRider" width=600>
   </p>
