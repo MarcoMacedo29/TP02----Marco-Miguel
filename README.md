@@ -714,16 +714,13 @@ namespace MOTORIDER
 1. __Controlos Intuitivos:__
      - Utilização das teclas W,A,S,D do teclado para movimentar a moto, oferecendo uma experiência de controle responsiva e intuitiva.
 
-2. __Estilo Visual Retro:__
-     - Escolha do estilo pixel art para os gráficos, proporcionando um visual clássico e de fácil interpretação.
-
-3. __Otimização de Desempenho:__
+2. __Otimização de Desempenho:__
      - Implementação de pooling para gerenciamento eficiente de memória e garantia de jogabilidade fluida.
 
-4. __Dificuldade Progressiva:__
+3. __Dificuldade Progressiva:__
      - Utilização de um sistema de geração pseudoaleatória para os carros inimigos, assegurando uma dificuldade crescente e balanceada.
 
-5. __Sistema de Colisão Preciso:__
+4. __Sistema de Colisão Preciso:__
      - Implementação de bounding boxes para detecção de colisões, para garantir precisão e eficiência.
 
 <a name="aspetos"></a>
